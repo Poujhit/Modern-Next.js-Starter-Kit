@@ -38,6 +38,14 @@ const Home: React.FC = () => {
 						<h3>Next Images &rarr;</h3>
 						<p>Import images in Next.js. Works out of the box!!</p>
 					</div>
+					<div className={classes.card}>
+						<h3>Tailwind CSS &rarr;</h3>
+						<p>
+							Tailwind confirgured out of the box. Tailwind is disabled by
+							default but, you can enable by uncommenting the tailwind
+							directives
+						</p>
+					</div>
 				</div>
 			</main>
 
